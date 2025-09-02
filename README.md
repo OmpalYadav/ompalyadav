@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ompal Yadav</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Cloud & DevOps Learner</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Aspiring+AI%2FML+Engineer;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Learner;📚+DSA+%7C+C%2B%2B+Daily+Practice" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -48,6 +53,10 @@ Working on large-scale projects that integrate **all the technologies I’m lear
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompalyadav&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
 ---
 
 ### 🌍 Connect With Me  
@@ -57,5 +66,9 @@ Working on large-scale projects that integrate **all the technologies I’m lear
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ompalyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ⭐️ *Check my repositories to follow along my learning journey across DSA, AI/ML, Full Stack, and Cloud/DevOps.*  
