@@ -2,39 +2,39 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Aspiring+AI%2FML+Engineer;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+Enthusiast+%7C+C%2B%2B+Daily+Practice" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+AI%2FML+Engineer+in+Progress;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+%26+Problem+Solving+Daily" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🌟 About Me  
-I am an **aspiring AI/ML Engineer** with a strong foundation in **DSA, Full Stack Development, and Cloud/DevOps**.  
-My learning journey is focused on building **scalable applications**, **intelligent systems**, and mastering **core CS fundamentals**.  
+I’m an **aspiring AI/ML Engineer** with a strong focus on **DSA, Full Stack Development, and Cloud/DevOps**.  
+My goal is to engineer **scalable, intelligent, and real-world solutions** while mastering core computer science fundamentals.  
 
-💡 My philosophy: *“Consistency beats intensity — learn, build, and grow every day.”*  
+💡 Guiding principle: *“Consistency compounds — solve, build, and innovate every single day.”*  
 
 ---
 
-### 📚 Current Learning Roadmap  
-- 🧑‍💻 **DSA in C++** → solving problems daily & uploading solutions  
-- 🤖 **AI/ML** → exploring algorithms, models, and hands-on projects  
+### 📚 Learning Roadmap  
+- 🧑‍💻 **DSA in C++** → solving & uploading problems daily  
+- 🤖 **AI/ML** → hands-on with algorithms, models, and experiments  
 - 🌐 **Full Stack Development** → React.js, Node.js, REST APIs, Databases  
 - ☁️ **Cloud & DevOps** → AWS, Docker, CI/CD pipelines  
 - 🗄️ **Core CS** → DBMS, OS, Networks, OOPs  
 
-📌 *All progress is organized into dedicated GitHub repositories — check them out!*  
+📌 *Every step of this journey is tracked in dedicated GitHub repositories.*  
 
 ---
 
-### 🚀 Big Projects (Coming Soon)  
-I’m building projects that merge **AI/ML, Full Stack, and Cloud** to demonstrate end-to-end expertise:  
+### 🚀 Upcoming Projects  
+End-to-end builds combining **AI/ML, Full Stack, and Cloud/DevOps**:  
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **AI-Powered Web App** | Deploy ML models with a full-stack interface | React.js, Node.js, Python, AWS |
-| **Cloud Native Hotel Booking** | Scalable booking platform with DevOps automation | React, Node, Docker, AWS |
-| **DSA Practice Hub** | Repository of daily solved problems | C++, Algorithms, STL |
+| **AI-Powered Web App** | Deploy ML models with interactive UI | React.js, Node.js, Python, AWS |
+| **Cloud-Native Hotel Booking** | Scalable booking platform with CI/CD | React, Node, Docker, AWS |
+| **DSA Practice Hub** | Repository of solved problems & patterns | C++, Algorithms, STL |
 
 ---
 
@@ -69,6 +69,8 @@ I’m building projects that merge **AI/ML, Full Stack, and Cloud** to demonstra
 <p align="center">
   <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/your-id"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/ompalyaqycg"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
@@ -77,4 +79,4 @@ I’m building projects that merge **AI/ML, Full Stack, and Cloud** to demonstra
   <img src="https://komarev.com/ghpvc/?username=ompalyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-⭐️ *Follow my journey — from daily DSA practice to AI/ML experiments, Full Stack projects, and Cloud/DevOps implementations.*  
+⭐️ *Follow my journey — from daily DSA practice to building AI/ML systems, full stack projects, and cloud-native solutions.*  
