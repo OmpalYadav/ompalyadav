@@ -12,7 +12,7 @@
 I’m an **aspiring AI/ML Engineer** with a strong focus on **DSA, Full Stack Development, and Cloud/DevOps**.  
 My goal is to engineer **scalable, intelligent, and real-world solutions** while mastering core computer science fundamentals.  
 
-💡 Guiding principle: *“Consistency compounds — solve, build, and innovate every single day.”*  
+💡 Guiding principle: *“Consistency beats intensity — learn, build, and grow every day.”*  
 
 ---
 
@@ -69,7 +69,7 @@ End-to-end builds combining **AI/ML, Full Stack, and Cloud/DevOps**:
 <p align="center">
   <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/your-id"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/Ompal_Yadav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/ompalyaqycg"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
