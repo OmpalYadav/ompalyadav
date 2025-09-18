@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🎬 Act 1: The Origin Story
@@ -17,7 +16,7 @@ In a world where code is king, I stepped into the lab with a simple principle:
 
 *"Consistency beats intensity — build, break, learn, repeat."*  
 
-From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my journey is one of **precision, discipline, and curiosity**. Every bug fixed, every deployment pushed, is a step closer to mastery.  
+From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my journey is one of **precision, discipline, and curiosity**. Every bug fixed, every deployment pushed, is a step closer to mastery.
 
 ---
 
@@ -38,28 +37,30 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 ---
 
 ## 🚀 Act 3: The Lab Experiments (Projects)
+
 **Projects are my signature compounds. Each one is a precise mixture of skill, tech, and creativity.**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1F1F1F"/></a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="https://github.com/ompalyadav/Cloud-Native-Hotel-Booking"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://github.com/ompalyadav/DSA-Practice-Hub"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 </p>
 
-| Project | Tech Stack |
-|---------|------------|
-| **AI-Powered Web App** | React.js, Node.js, Python, AWS |
-| **Cloud-Native Hotel Booking** | React, Node, Docker, AWS |
-| **DSA Practice Hub** | C++, Algorithms, STL |
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| **AI-Powered Web App** | React.js, Node.js, Python, AWS | [Repo](https://github.com/OmpalYadav/Software-Development) |
+| **Cloud-Native School Website** | React, Node, Docker, AWS | [Repo](https://github.com/OmpalYadav/fs-group-of-education) |
+| **DSA Practice Hub** | C++, Algorithms, STL | [Repo](https://github.com/OmpalYadav/DSA-with-Cpp-Js) |
 
 > Think of them as **Heisenberg-level creations** — carefully crafted, scalable, and functional.
 
 ---
 
 ## 🛠️ Act 4: Arsenal of Skills
+
 **My lab equipment includes:**  
 
 <p align="center">
@@ -81,22 +82,19 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 
 > Every tool is chosen to **engineer clean, efficient, and impactful solutions**.
 
-
 ---
+
 ## 📊 Act 5: The Evidence (GitHub Analytics)
 
 I leave **digital footprints across the code universe** — a trail of persistence, learning, and growth.  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ompalyadav&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ompalyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night&area=true" alt="Contribution Graph"/>
 </p>
 
 ### Key Highlights
@@ -113,10 +111,8 @@ I leave **digital footprints across the code universe** — a trail of persisten
 Connect with me — the lab is open to collaborators, recruiters, and fellow experimenters:
 
 <p align="center">
-  <!-- Professional & Communication -->
   <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
-  <!-- Problem Solving Platforms -->
+  <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Ompal_Yadav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.naukri.com/code360/profile/OmpalYadavdev"><img src="https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/ompalyaqycg"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
@@ -124,12 +120,9 @@ Connect with me — the lab is open to collaborators, recruiters, and fellow exp
   <a href="https://www.codechef.com/users/ompal_yadav_70"><img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/ompalyadav.dev"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/ompalyadav_dev"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </p>
 
 > My network spans **professional, collaborative, and problem-solving arenas** — always open for experiments and connections.
-
 
 ---
 
@@ -141,4 +134,3 @@ Connect with me — the lab is open to collaborators, recruiters, and fellow exp
   ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**.  
   Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
 </p>
-
