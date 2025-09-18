@@ -1,12 +1,13 @@
 <h1 align="center">💀 Ompal Yadav</h1>
+
 <h3 align="center">The Lab of Code — AI, Full Stack & Cloud Experiments</h3>
 
 <p align="center">
-  <strong>🚀 AI/ML Engineer in the Making</strong> | 
-  <strong>🌐 Full Stack Developer</strong> | 
-  <strong>☁️ Cloud & DevOps Explorer</strong> | 
-  <strong>📚 DSA Problem Solver</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+AI%2FML+Engineer+in+the+Making;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
@@ -37,8 +38,16 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 ---
 
 ## 🚀 Act 3: The Lab Experiments (Projects)
-
 **Projects are my signature compounds. Each one is a precise mixture of skill, tech, and creativity.**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 | Project | Tech Stack |
 |---------|------------|
@@ -46,32 +55,56 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 | **Cloud-Native Hotel Booking** | React, Node, Docker, AWS |
 | **DSA Practice Hub** | C++, Algorithms, STL |
 
-> Think of them as **Heisenberg-level creations** — carefully crafted, scalable, and functional.  
+> Think of them as **Heisenberg-level creations** — carefully crafted, scalable, and functional.
 
 ---
 
 ## 🛠️ Act 4: Arsenal of Skills
-
 **My lab equipment includes:**  
 
-- **Languages:** C++, Python, JavaScript  
-- **Frameworks & Libraries:** React.js, Node.js  
-- **Cloud & DevOps:** AWS, Docker, CI/CD  
-- **Database & Tools:** MySQL, Git  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF5733?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 > Every tool is chosen to **engineer clean, efficient, and impactful solutions**.
 
----
 
+---
 ## 📊 Act 5: The Evidence (GitHub Analytics)
 
-I leave **digital footprints in the code universe**.  
+I leave **digital footprints across the code universe** — a trail of persistence, learning, and growth.  
 
-- **GitHub Stats:** Track my coding prowess.  
-- **Contribution Graph:** Daily, consistent, relentless.  
-- **Streaks:** Proof of persistence.  
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ompalyadav&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
 
-> All analytics are a testament to **discipline over brilliance**.  
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+### Key Highlights
+- **GitHub Stats:** Quantifying my coding skills and projects.  
+- **Contribution Graph:** Visual proof of consistency and effort.  
+- **Streaks:** Demonstrating discipline and dedication day by day.  
+
+> These analytics reflect **practice, persistence, and progress** — the real markers of growth in the coding universe.
 
 ---
 
@@ -79,14 +112,33 @@ I leave **digital footprints in the code universe**.
 
 Connect with me — the lab is open to collaborators, recruiters, and fellow experimenters:
 
-- [LinkedIn](https://linkedin.com/in/ompalyadav) — Professional Network  
-- [Email](mailto:ompalyadav.dev@gmail.com) — Direct Line  
-- [LeetCode](https://leetcode.com/u/Ompal_Yadav) — Problem-Solving Arena  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/ompalyaqycg) — Technical Repository  
+<p align="center">
+  <!-- Professional & Communication -->
+  <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <!-- Problem Solving Platforms -->
+  <a href="https://leetcode.com/u/Ompal_Yadav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.naukri.com/code360/profile/OmpalYadavdev"><img src="https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/ompalyaqycg"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.interviewbit.com/profile/ompal-yadav_172"><img src="https://img.shields.io/badge/InterviewBit-FF2D20?style=for-the-badge&logo=interviewbit&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/ompal_yadav_70"><img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/ompalyadav.dev"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/ompalyadav_dev"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
+
+> My network spans **professional, collaborative, and problem-solving arenas** — always open for experiments and connections.
+
 
 ---
 
 <p align="center">
-⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations** and **cloud-native architectures**.  
-Every experiment, every push, every commit is part of the cinematic saga of **Ompal Yadav’s lab**.
+  <img src="https://komarev.com/ghpvc/?username=ompalyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**.  
+  Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
+</p>
+
