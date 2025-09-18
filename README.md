@@ -52,16 +52,16 @@ End-to-end builds combining **AI/ML, Full Stack, and Cloud/DevOps**:
 </p>
 
 ---
+### 📊 GitHub Analytics   
+<p align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ompalyadav&theme=tokyonight" alt="GitHub Streak" height="180"/> 
+</p>  
 
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompalyadav&theme=tokyonight" alt="GitHub Streak" height="180"/>
+<p align="center">   
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night" alt="Contribution Graph"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
 
 ---
 
