@@ -7,6 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+AI%2FML+Engineer+in+the+Making;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
+</p>
 
 ---
 
@@ -59,67 +62,102 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 
 ---
 
-## 🛠️ Act 4: Arsenal of Skills
+## 🛠️ Act 4: Arsenal of Skills  
 
 **My lab equipment includes:**  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-FF5733?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Frameworks+%26+Libs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |  
+| ----- | ---- | ---- | ---- | ---- |  
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" title="Java, C++, C, Python, JavaScript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring" title="React, Redux, Node.js, Express, Spring Boot"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" title="VS Code, IntelliJ, Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker" title="Git, GitHub, Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" title="Windows, Linux, Ubuntu"/></a></div> |  
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb" title="MySQL, MongoDB"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, Tailwind CSS"/></a></div> | <div align="center"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="40" title="IntelliJ IDEA"/></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/></a></div> |  
 
-> Every tool is chosen to **engineer clean, efficient, and impactful solutions**.
+> Every tool is chosen to **engineer clean, efficient, and impactful solutions**.  
 
 ---
 
-## 📊 Act 5: The Evidence (GitHub Analytics)
+## 📊 Act 5: The Evidence (GitHub Analytics)  
 
 I leave **digital footprints across the code universe** — a trail of persistence, learning, and growth.  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ompalyadav&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ompalyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompalyadav&theme=2077" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompalyadav&theme=tokyo-night&area=true" alt="Contribution Graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ompalyadav&theme=2077" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ompalyadav&theme=2077" height="180em"/>
 </p>
 
-### Key Highlights
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompalyadav&theme=2077" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ompalyadav&theme=2077" height="180em"/>
+</p>
+
+<p align="center">
+  <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=ompalyadav&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### Key Highlights  
 - **GitHub Stats:** Quantifying my coding skills and projects.  
-- **Contribution Graph:** Visual proof of consistency and effort.  
+- **Commit Languages:** Showing my multilingual coding arsenal.  
+- **Productive Hours:** When the magic happens 🌙☀️  
 - **Streaks:** Demonstrating discipline and dedication day by day.  
 
 > These analytics reflect **practice, persistence, and progress** — the real markers of growth in the coding universe.
 
----
 
+---
 ## 🌍 Act 6: The Network
 
 Connect with me — the lab is open to collaborators, recruiters, and fellow experimenters:
 
 <p align="center">
-  <a href="mailto:ompalyadav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ompalyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ompal_Yadav"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.naukri.com/code360/profile/OmpalYadavdev"><img src="https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/ompalyaqycg"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.interviewbit.com/profile/ompal-yadav_172"><img src="https://img.shields.io/badge/InterviewBit-FF2D20?style=for-the-badge&logo=interviewbit&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/ompal_yadav_70"><img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/ompalyadav.dev"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/ompalyadav_dev"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <!-- Gmail (custom provided image) -->
+  <a href="mailto:ompalyadav.dev@gmail.com" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fgmail-logo-vector.html&psig=AOvVaw32nzfcppd9UCxrrNLCp4V4&ust=1758368616076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC3iNff5I8DFQAAAAAdAAAAABAE" alt="Gmail" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ompalyadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Ompal_Yadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- CodeStudio / Naukri -->
+  <a href="https://www.naukri.com/code360/profile/OmpalYadavdev" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="CodeStudio" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/ompalyaqycg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- InterviewBit (custom provided image) -->
+  <a href="https://www.interviewbit.com/profile/ompal-yadav_172" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interviewbit.com%2F&psig=AOvVaw0-bGmGqmfmQlQ0hom8KEVO&ust=1758368593295000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjWnMzf5I8DFQAAAAAdAAAAABAE" alt="InterviewBit" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/ompal_yadav_70" target="_blank">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="CodeChef" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/ompalyadav.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="CodeForces" height="40" width="40" style="margin-right:12px;"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/ompalyadav_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+  </a>
 </p>
 
 > My network spans **professional, collaborative, and problem-solving arenas** — always open for experiments and connections.
@@ -131,6 +169,5 @@ Connect with me — the lab is open to collaborators, recruiters, and fellow exp
 </p>
 
 <p align="center">
-  ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**.  
-  Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
+  ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**. Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
 </p>
