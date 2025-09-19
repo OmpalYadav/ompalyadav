@@ -1,15 +1,23 @@
-<h1 align="center">💀 Ompal Yadav</h1>
+<h1 align="center">✨ Ompal Yadav ✨</h1> 
 
 <h3 align="center">The Lab of Code — AI, Full Stack & Cloud Experiments</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+AI%2FML+Engineer+in+the+Making;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=🚀+AI%2FML+Engineer+in+the+Making;🌐+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Explorer;📚+DSA+Problem+Solver;⚡+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="280" alt="Coding GIF">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ompalyadav?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/ompalyadav?label=Stars&style=social" alt="GitHub Stars"/>
+</p>
+
+<hr style="border: 1px solid #36BCF7;"/>
 
 ---
 
