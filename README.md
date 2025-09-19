@@ -66,7 +66,7 @@ From solving **algorithms in C++** to orchestrating **AI/ML pipelines**, my jour
 
 **My lab equipment includes:**  
 
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Frameworks+%26+Libs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |  
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |  
 | ----- | ---- | ---- | ---- | ---- |  
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" title="Java, C++, C, Python, JavaScript"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring" title="React, Redux, Node.js, Express, Spring Boot"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" title="VS Code, IntelliJ, Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker" title="Git, GitHub, Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" title="Windows, Linux, Ubuntu"/></a></div> |  
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb" title="MySQL, MongoDB"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, Tailwind CSS"/></a></div> | <div align="center"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="40" title="IntelliJ IDEA"/></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" title="AWS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" title="Arch Linux"/></a></div> |  
@@ -106,61 +106,69 @@ I leave **digital footprints across the code universe** — a trail of persisten
 - **Streaks:** Demonstrating discipline and dedication day by day.  
 
 > These analytics reflect **practice, persistence, and progress** — the real markers of growth in the coding universe.
-
-
 ---
-## 🌍 Act 6: The Network
 
-Connect with me — the lab is open to collaborators, recruiters, and fellow experimenters:
+## 🌍 Act 6: The Network  
+
+Connect with me — the lab is open to collaborators, recruiters, and fellow experimenters:  
 
 <p align="center">
-  <!-- Gmail (custom provided image) -->
+  <!-- Gmail -->
   <a href="mailto:ompalyadav.dev@gmail.com" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fgmail-logo-vector.html&psig=AOvVaw32nzfcppd9UCxrrNLCp4V4&ust=1758368616076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC3iNff5I8DFQAAAAAdAAAAABAE" alt="Gmail" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+         alt="Gmail" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ompalyadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Ompal_Yadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         alt="LeetCode" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeStudio / Naukri -->
   <a href="https://www.naukri.com/code360/profile/OmpalYadavdev" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="CodeStudio" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://avatars.githubusercontent.com/u/88321750?v=4" 
+         alt="CodeStudio" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/ompalyaqycg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+         alt="GeeksforGeeks" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
-  <!-- InterviewBit (custom provided image) -->
+  <!-- InterviewBit -->
   <a href="https://www.interviewbit.com/profile/ompal-yadav_172" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interviewbit.com%2F&psig=AOvVaw0-bGmGqmfmQlQ0hom8KEVO&ust=1758368593295000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjWnMzf5I8DFQAAAAAdAAAAABAE" alt="InterviewBit" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://assets.interviewbit.com/assets/ibpp/ib_logo.png" 
+         alt="InterviewBit" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ompal_yadav_70" target="_blank">
-    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="CodeChef" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521411-2944916.png" 
+         alt="CodeChef" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeForces -->
   <a href="https://codeforces.com/profile/ompalyadav.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="CodeForces" height="40" width="40" style="margin-right:12px;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
+         alt="CodeForces" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/ompalyadav_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+         alt="HackerRank" height="40" width="40" style="margin: 0 20px;"/>
   </a>
-</p>
+</p>  
 
-> My network spans **professional, collaborative, and problem-solving arenas** — always open for experiments and connections.
+> My network spans **professional, collaborative, and problem-solving arenas** — always open for experiments and connections.  
 
 ---
 
@@ -169,5 +177,6 @@ Connect with me — the lab is open to collaborators, recruiters, and fellow exp
 </p>
 
 <p align="center">
-  ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**. Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
+  ⭐️ Follow my journey — from **daily DSA drills** to **AI/ML innovations**, **full stack creations**, and **cloud-native experiments**.  
+  Every push, commit, and project contributes to the evolving saga of **Ompal Yadav’s Lab of Code**.
 </p>
