@@ -119,43 +119,43 @@ Connect with me — the lab is open to collaborators, recruiters, and fellow exp
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Ompal_Yadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+    <img src="https://codolio.com/icons/leetcode_light.png" 
          alt="LeetCode" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeStudio / Naukri -->
   <a href="https://www.naukri.com/code360/profile/OmpalYadavdev" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/88321750?v=4" 
+    <img src="https://codolio.com/icons/codestudio_light.png" 
          alt="CodeStudio" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/ompalyaqycg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+    <img src="https://codolio.com/icons/gfg.png" 
          alt="GeeksforGeeks" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- InterviewBit -->
   <a href="https://www.interviewbit.com/profile/ompal-yadav_172" target="_blank">
-    <img src="https://assets.interviewbit.com/assets/ibpp/ib_logo.png" 
+    <img src="https://codolio.com/icons/interviewbit.png" 
          alt="InterviewBit" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ompal_yadav_70" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521411-2944916.png" 
+    <img src="https://codolio.com/icons/codechef_light.png" 
          alt="CodeChef" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- CodeForces -->
   <a href="https://codeforces.com/profile/ompalyadav.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" 
+    <img src="https://codolio.com/icons/codeforces.png" 
          alt="CodeForces" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/ompalyadav_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+    <img src="https://codolio.com/icons/hackerrank.png" 
          alt="HackerRank" height="40" width="40" style="margin: 0 20px;"/>
   </a>
 </p>  
