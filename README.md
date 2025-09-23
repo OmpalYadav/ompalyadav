@@ -50,13 +50,35 @@ From **C++ algorithms** to **AI/ML pipelines**, I explore the universe of code w
 **Projects = signature compounds of skill + tech + creativity**  
 
 <p align="center">
-  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1F1F1F"/></a>
-  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://github.com/ompalyadav/AI-Powered-Web-App"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-  <a href="https://github.com/ompalyadav/Cloud-Native-Hotel-Booking"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://github.com/ompalyadav/DSA-Practice-Hub"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Cloudflare-Dark.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/Cloud-Native-Hotel-Booking">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/DSA-Practice-Hub">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" width="50" height="50" />
+  </a>
+  <a href="https://github.com/ompalyadav/AI-Powered-Web-App">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" width="50" height="50" />
+  </a>
 </p>
+
 
 | Project | Tech Stack | Link |
 |---------|------------|------|
