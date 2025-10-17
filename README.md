@@ -82,9 +82,9 @@ From **C++ algorithms** to **AI/ML pipelines**, I explore the universe of code w
 
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| **AI-Powered Web App** | React.js, Node.js, Python, AWS | [Repo](https://github.com/OmpalYadav/Software-Development) |
-| **Cloud-Native School Website** | React, Node, Docker, AWS | [Repo](https://github.com/OmpalYadav/fs-group-of-education) |
-| **DSA Practice Hub** | C++, Algorithms, STL | [Repo](https://github.com/OmpalYadav/DSA-with-Cpp-Js) |
+| **🚀 DSA with C++ & JavaScript** | C++, JavaScript, STL, Algorithms, Recursion, Dynamic Programming | [Repo](https://github.com/OmpalYadav/DSA-with-Cpp-Js) |
+| **🚀 AI & ML From Scratch** | Python, NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow / PyTorch | [Repo](https://github.com/OmpalYadav/AI-ML-From-Scratch) |
+| **🚀 Software Development Journey** | C++, JavaScript, Node.js, Express.js, MongoDB, Docker, GitHub Actions, AWS, HTML/CSS, Git, VS Code | [Repo](https://github.com/OmpalYadav/Software-Development) |
 
 > Think of them as **Heisenberg-level creations** — scalable, functional, and precise.
 
